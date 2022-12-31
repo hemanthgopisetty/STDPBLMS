@@ -29,6 +29,7 @@ A rather common misunderstanding of binary search is that people often think thi
 As a matter of fact, it can be applied to much more complicated situations.
 */
 vector<int>a{-1,0,3,5,9,12};
+int target=6;
 //Recursive Approach
 int bs(vector<int>& a, int target,int l,int r)
     {
