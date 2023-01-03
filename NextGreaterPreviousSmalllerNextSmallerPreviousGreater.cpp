@@ -1,7 +1,6 @@
 #include "bits/stdc++.h"
 using namespace std;
 #define ll long long int
-#define endl "\n"
 vector<int> a{1,2,3,4,5};
 //Monotonic Decreasing Stack ->To find the NextGreaterandPreviousSmaller
 //Monotonic Increasing Stack ->To find the NextSmallerandPreviousGreater
